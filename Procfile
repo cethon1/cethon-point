@@ -1,0 +1,1 @@
+worker: bash cethon.py
